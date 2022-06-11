@@ -6,7 +6,7 @@
 |------|---|---|
 |홍지나|**팀장**, 디자이너| <a href="https://github.com/ddodoi"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a> |
 |정성욱|개발자| <a href="https://github.com/oceanstar777"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a> |
-|윤국희|기획자, ppt작성| <a href="https://github.com/cookie-yoon"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a> |
+|윤국희|기획자, ppt작성 및 발표| <a href="https://github.com/cookie-yoon"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a> |
 |이찬우|개발자| <a href="https://github.com/cksdn43"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a> |
 |김도형|스토리 작가, 현황 기록| <a href="https://github.com/dhkim98"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a> |
 
@@ -86,7 +86,7 @@ of Isaac (비디오 게임)’등의 게임을 참고해 선택지에 따라 엔
    
 # :mag_right: 개발현황
 ### <9주차>
- * 파이게임을 기반으로한 게임을 개발하기로 
+ * 파이게임을 기반으로한 게임을 개발하기로 결정
 
  * 개발 : 파이게임 모듈 개발에 필요한 기술 스택을 쌓을 시간이 필요함.
  
@@ -178,6 +178,6 @@ of Isaac (비디오 게임)’등의 게임을 참고해 선택지에 따라 엔
  * 알고리즘 구현
    이찬우 팀원이 작성한 초안을 바탕으로 현재 정성욱, 이찬우 팀원이 구현 완료함.
  
- * 게임 개발 완료 및 
+ * 게임 개발 완료 및 디버그
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=footer&text=감사합니다!!&animation=fadeIn&fontAlignY=65)
